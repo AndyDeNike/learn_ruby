@@ -1,2 +1,9 @@
 #write your code here
-fartttttt
+def hello
+	"Hello!"
+end 
+
+def greet who 
+	"Hello, " + who + "!"
+end 
+
