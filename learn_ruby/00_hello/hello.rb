@@ -7,4 +7,3 @@ def greet who
 	"Hello, " + who + "!"
 end 
 
-j2
